@@ -2,6 +2,8 @@ package gft;
 
 import java.util.Scanner;
 
+
+// obs.: priorizei as demais questões e não deu tempo de concluir esta...
 public class Operacoes {
 
     public Operacoes() {
